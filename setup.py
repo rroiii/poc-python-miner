@@ -11,8 +11,5 @@ setup(
     name='poc-python-miner',
     version='0.1',
     packages=['poc-python-miner'],
-    install_requires=[
-        'subprocess',
-        'os'
-    ]
+    install_requires=[]
 )
